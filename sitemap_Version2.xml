@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace DOMAIN with your production domain, e.g. https://dukebillpay.example.com -->
+  <url>
+    <loc>https://DOMAIN/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/index.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Optional pages: only include if you upload them -->
+  <url>
+    <loc>https://DOMAIN/privacy.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/terms.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/404.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+  </url>
+</urlset>
